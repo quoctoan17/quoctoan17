@@ -10,16 +10,16 @@
 ## 🙋 About Me
 
 - 🎓 Student at UMT University
-- 💻 Interested in Python, Data Science, Networking
-- 🌱 Currently learning Machine Learning & AI
-- 🚀 Working on File Transfer Application and Data Science Projects
-- 📫 Email: your_email@gmail.com
+- 💻 Passionate about Python, Data Science and AI
+- 🌱 Currently learning Machine Learning & Deep Learning
+- 🚀 Building Python, Networking and Data Science Projects
+- 📫 Contact: your_email@gmail.com
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode,linux,html,css,javascript" />
 </p>
 
@@ -28,8 +28,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quoctoan17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -37,7 +38,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=quoctoan17&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -45,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=quoctoan17&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -53,31 +54,51 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quoctoan17&theme=tokyo-night"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 📦 Warehouse Management System (C++)
+- 📁 File Transfer Application (Python TCP)
+- 📊 Data Science Projects
+- 🤖 AI & Machine Learning Experiments
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<p align="center">
+<a href="https://github.com/quoctoan17">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your_email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
 ---
 
-### 💡 Quote
+## 👀 Profile Views
 
-> "The expert in anything was once a beginner."
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=quoctoan17&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+## 💬 Quote
+
+<p align="center">
+<i>"The expert in anything was once a beginner."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
