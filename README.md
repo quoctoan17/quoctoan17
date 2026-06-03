@@ -45,14 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=quoctoan17&theme=algolia"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
