@@ -1,7 +1,11 @@
 # Hi there, I'm Lê Nguyễn Quốc Toàn 👋 
 ### 🚀 Web & Mobile Developer | Tech Enthusiast
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078d4&center=true&vCenter=true&width=500&lines=L%C3%AA+Nguy%E1%BB%85n+Qu%E1%BB%91c+To%C3%A0n;Web+%26+Mobile+Developer;Data+Science+%26+ML+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=quoctoan17&color=0078d4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
@@ -49,15 +53,22 @@ Mình là một lập trình viên **Web & Mobile**, hiện đang là sinh viên
 
 ---
 
-## 📈 GitHub Stats
+## 📊 3D Contribution Graph
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=quoctoan17&theme=dark" alt="3D Contribution Graph" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoctoan17&show_icons=true&theme=tokyonight&count_private=true" alt="Toan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan17&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quoctoan17&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoan17&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoan17&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoan17&theme=tokyonight" width="98%" alt="GitHub Streak" />
 </p>
 
 ---
